@@ -1,13 +1,13 @@
 {
     "name": "coding-tools-extension-pack",
-    "publisher": "niem94",
+    "publisher": "devantler",
     "displayName": "Coding Tools Extension Pack",
     "description": "A collection of tools to ease and enhance the coding experience in VSCode.",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/niem94/vscode.coding-tools-extension-pack"
+        "url": "https://github.com/devantler/vscode.coding-tools-extension-pack"
     },
     "engines": {
         "vscode": "^1.59.0"
@@ -18,7 +18,8 @@
     "extensionPack": [ 
         "aaron-bond.better-comments",
         "streetsidesoftware.code-spell-checker",
-        "humao.rest-client",
-        "adpyke.codesnap"
+        "adpyke.codesnap",
+        "rangav.vscode-thunder-client",
+        "cschlosser.doxdocgen"
     ]
 }
