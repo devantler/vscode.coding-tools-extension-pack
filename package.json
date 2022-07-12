@@ -3,7 +3,7 @@
     "publisher": "devantler",
     "displayName": "Coding Tools Extension Pack",
     "description": "A collection of tools to ease and enhance the coding experience in VSCode.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
@@ -18,9 +18,10 @@
     "extensionPack": [ 
         "aaron-bond.better-comments",
         "streetsidesoftware.code-spell-checker",
-        "adpyke.codesnap",
+        "jeffersonlicet.snipped",
         "rangav.vscode-thunder-client",
         "cschlosser.doxdocgen",
-        "naumovs.color-highlight"
+        "naumovs.color-highlight",
+        "GitHub.copilot"
     ]
 }
