@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.3] - 2022-07-12
+
+- Added Intellicode
+- Added Keep A Changelog
+- Added Dependency Analytics
+- Added DrawIO support
+- Added Choose A License
+- Added JSON Sort
+
 ## [1.0.2] — 2022-07-12
 
 - Replaced 'CodeSnap' with 'Snipped'

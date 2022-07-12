@@ -3,7 +3,7 @@
     "publisher": "devantler",
     "displayName": "Coding Tools Extension Pack",
     "description": "A collection of tools to ease and enhance the coding experience in VSCode.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
@@ -22,6 +22,12 @@
         "rangav.vscode-thunder-client",
         "cschlosser.doxdocgen",
         "naumovs.color-highlight",
-        "GitHub.copilot"
+        "GitHub.copilot",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "RLNT.keep-a-changelog",
+        "redhat.fabric8-analytics",
+        "hediet.vscode-drawio",
+        "ultram4rine.vscode-choosealicense",
+        "richie5um2.vscode-sort-json"
     ]
 }
